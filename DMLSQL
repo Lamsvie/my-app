@@ -1,3 +1,0 @@
-INSERT INTO Product VALUES ("CO1","Samsung","Smartphone",3299) ;
-INSERT INTO Customer VALUES ("CO1","Ali","77123548") ;
-INSERT INTO Orders VALUES ("CO1","PO2","",2,9198) ;
